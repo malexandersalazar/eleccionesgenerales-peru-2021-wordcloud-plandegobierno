@@ -1,51 +1,51 @@
 ![alt text](dist/Acción_Popular.jpg "Acción Popular")
-Palabras clave: trabajar, honestidad, pensiones, reinstalar, reforma, acción, empresas
+Palabras clave: trabajar, honestidad, pensiones
 
 ![alt text](dist/Alianza_para_el_Progreso.jpg "Alianza para el Progreso")
-Palabras clave: empresas, inversión, agua, educación, recursos, proyectos, servicios
+Palabras clave: empresas, inversión, agua
 
 ![alt text](dist/Avanza_País.jpg "Avanza País")
-Palabras clave: inversión, infraestructura, servicios, programas, protección, corrupción, creación
+Palabras clave: inversión, infraestructura, protección
 
 ![alt text](dist/Democracia_Directa.jpg "Democracia Directa")
-Palabras clave: educación, población, ministerio, presupuesto, instituto, servicios, entidades
+Palabras clave: ministerio, presupuesto, instituto
 
 ![alt text](dist/Frente_Amplio.jpg "Frente Amplio")
-Palabras clave: implementación, medidas, educación, programa, incremento, porcentaje, recursos
+Palabras clave: implementación, incremento, porcentaje
 
 ![alt text](dist/Fuerza_Popular.jpg "Fuerza Popular")
-Palabras clave: educación, servicios, pobreza, sector, población, programas, acceso
+Palabras clave: pobreza, sector, acceso
 
 ![alt text](dist/Juntos_por_El_Perú.jpg "Juntos por El Perú")
-Palabras clave: derechos, educación, fortalecer, capacidades, género, servicios, participación
+Palabras clave: derechos, fortalecer, capacidades
 
 ![alt text](dist/Partido_Morado.jpg "Partido Morado")
-Palabras clave: servicios, calidad, educación, vida, acceso, instituciones, información
+Palabras clave: calidad, vida, acceso
 
 ![alt text](dist/Partido_Nacionalista_Peruano.jpg "Partido Nacionalista Peruano")
-Palabras clave: programa, población, proyectos, servicios, reforma, fortalecer, establecer
+Palabras clave: proyectos, reforma, fortalecer
 
 ![alt text](dist/Partido_Popular_Cristiano.jpg "Partido Popular Cristiano")
-Palabras clave: derechos, convención, humanos, discriminación, igualdad, pesem, persona
+Palabras clave: derechos, convención, humanos
 
 ![alt text](dist/Perú_Libre.jpg "Perú Libre")
-Palabras clave: programa, educación, empresas, capítulo, sociedad, recursos, sector
+Palabras clave: empresas, sociedad, recursos
 
 ![alt text](dist/Perú_Patria_Segura.jpg "Perú Patria Segura")
-Palabras clave: justicia, derechos, infraestructura, recursos, seguridad, calidad, sector
+Palabras clave: justicia, derechos, infraestructura
 
 ![alt text](dist/Podemos_Perú.jpg "Podemos Perú")
-Palabras clave: educación, programa, creación, servicios, empresas, economía, recursos
+Palabras clave: creación, empresas, economía
 
 ![alt text](dist/Renovacion_Popular.jpg "Renovacion Popular")
-Palabras clave: promoveremos, impulsaremos, productos, calidad, zonas, recursos, medio
+Palabras clave: productos, calidad, zonas
 
 ![alt text](dist/Somos_Perú.jpg "Somos Perú")
-Palabras clave: población, metas, servicios, indicadores, sector, porcentaje, recursos
+Palabras clave: sector, porcentaje, recursos
 
 ![alt text](dist/Unión_Por_el_Perú.jpg "Unión Por el Perú")
-Palabras clave: educación, unión, calidad, infraestructura, mejorar, instituciones, desarrollar
+Palabras clave: calidad, infraestructura, instituciones
 
 ![alt text](dist/Victoria_Nacional.jpg "Victoria Nacional")
-Palabras clave: objetivos, educación, problemas, indicadores, metas, servicios, inversión
+Palabras clave: problemas, inversión, proyectos
 
